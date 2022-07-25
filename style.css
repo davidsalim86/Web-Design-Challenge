@@ -1,0 +1,28 @@
+.bg1 {
+    background-color: white;
+}
+
+@media (max-width: 600px) {
+  .bg1 {
+    background-color: rgb(57, 198, 203);
+}
+}
+
+.bg2 {
+    background-color:rgb(57, 198, 203) ;
+}
+
+.bg3 {
+    background-color: white;
+}
+
+.floatleft {
+    float: left;
+    margin: 10px;
+}
+
+.floatauto {
+    float: auto;
+    margin: 10px;
+}
+
